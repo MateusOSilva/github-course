@@ -7,3 +7,6 @@ Testando comandos git status e git add
 
 
 Testing Git diff
+
+
+Testando acesso remoto...
