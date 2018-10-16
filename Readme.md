@@ -1,3 +1,5 @@
 Github
 Esse é meu primeiro arquivo em Git
-Git Course	
+Git Course
+
+Testando comandos git status e git add
